@@ -15,6 +15,14 @@ declare module '@emotion/react' {
 				backgroundNormal: string;
 				listItemBackground: string;
 				listItemBackgroundBorder: string;
+				tooltip: {
+					background: string;
+					text: string;
+					button: {
+						background: string;
+						text: string;
+					};
+				};
 				wheel: {
 					background: string;
 					microtask: {

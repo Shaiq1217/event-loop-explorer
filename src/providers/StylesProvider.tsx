@@ -68,6 +68,15 @@ const theme = {
 			listItemBackground: '#35495a',
 			listItemBackgroundBorder: '#3d92e1',
 
+			tooltip: {
+				background: '#0D151C',
+				text: 'rgba(255, 255, 255, 0.87)',
+				button: {
+					background: '#35495a',
+					text: 'rgba(255, 255, 255, 0.87)',
+				},
+			},
+
 			wheel: {
 				background: '#1A2A38',
 				microtask: {
